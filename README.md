@@ -1,2 +1,2 @@
-# 4wins_c
-4 wins, written in C, input over console.
+# 4 connects
+4 connects, written in C, input over console.
